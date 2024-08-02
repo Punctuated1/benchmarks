@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: BenchmarkCouchBase
+  couchbase:
+    connection-string: couchbases://10.0.0.182/benchmark
+    username: admin
+    password: password		

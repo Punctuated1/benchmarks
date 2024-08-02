@@ -1,0 +1,1 @@
+Set Key: 1 Operation: Inserts Total Duration: .1,677,226,098,008 nanos -- Number Operations: ...........100,000 -- Mean: ........16,772,260 nanos -- Max: .......659,025,403 nanos -- Min: ........10,759,241 nanos -- Standard Deviation: ........11,085,126 nanos

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: BenchmarkCouchBase
+    
+couchbase:
+  url: 10.0.0.182
+  username: admin
+  password: password
+  bucketname: benchmark			
